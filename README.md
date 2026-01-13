@@ -11,6 +11,10 @@ This repository provides an overview of a **Company Workforce Analysis Dashboard
 
 The **Overview** page provides a comprehensive snapshot of the company’s status, serving as an introductory page that presents the big picture without detailed specifics.
 
+<p align="center">
+  <img src="1_1_load_csvs_solution 1_13_2026 2_07_12 AM.png" alt="Overview Dashboard" width="800">
+</p>
+
 ### Key Metrics (Left Side)
 - Total number of employees
 - Number of currently active employees
