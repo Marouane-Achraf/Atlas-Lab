@@ -44,6 +44,10 @@ This page provides an overall view of the company, highlighting its size, workfo
 
 The **Demographics** page focuses on the personal and demographic characteristics of employees.
 
+<p align="center">
+  <img src="1_1_load_csvs_solution 1_13_2026 2_07_28 AM (1).png" alt="Overview Dashboard" width="800">
+</p>
+
 ### Employee Ages (Left Side)
 - Oldest employee in the company
 - Youngest employee in the company
@@ -68,7 +72,9 @@ This page explains workforce composition in terms of age, gender, marital status
 ## Attrition
 
 The **Attrition** page analyzes employee turnover and its potential causes.
-
+<p align="center">
+  <img src="1_1_load_csvs_solution 1_13_2026 2_07_42 AM.png" alt="Overview Dashboard" width="800">
+</p>
 ### Key Metrics (Left Side)
 - Overall employee attrition rate
 - Chart showing **attrition rate by hiring date** to identify high-risk periods
